@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Shah
+    given-names: Supan
+    orcid: https://orcid.org/0000-0003-2896-4787
+title: "Deep Reinforcement Learning for Object Detection"
+version: 1.0.0
+date-released: 2021-10-11
+url: "https://github.com/Supan14/RPN-Deep-RL"
